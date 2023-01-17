@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DabLoad
+- 👋 Hi, I’m Leo(aka Dab, aka DoneK)
 - 👀 I’m interested in programming, and learning new languages
 - 🌱 I’m currently learning Python
 
