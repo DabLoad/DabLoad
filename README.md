@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo(aka Dab, aka DoneK)
+- 👋 Hi, I’m Leo(AKA Dab)
 - 👀 I’m interested in programming, and learning new languages
 - 🌱 I’m currently learning Java
 
