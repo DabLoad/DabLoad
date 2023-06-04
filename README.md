@@ -1,6 +1,6 @@
 ### Hey this is information or me! 💎
   
-- 👋 I’m Lev Chetveryk
+- 👋 I’m Lev
 - 👀 I’m interested in programming, and learning new languages
 - 🌱 I’m currently learning Java
 
