@@ -1,9 +1,8 @@
 ### Hey this is information or me! 💎
   
-- 👋 I’m Leo
+- 👋 I’m Lev Chetveryk
 - 👀 I’m interested in programming, and learning new languages
 - 🌱 I’m currently learning Java
-- 🌈 Also I love watching Anime and reading Manga  <br> 
 
 ---
 <h3 align="left">Languages and Tools:</h3>
