@@ -1,4 +1,4 @@
-### Hey this is information or me! 💎
+### Hey this is information about me! 💎
   
 - 👋 I’m Lev
 - 👀 I’m interested in programming, and learning new languages
