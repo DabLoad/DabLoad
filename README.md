@@ -2,7 +2,7 @@
   
 - 👋 I’m Lev
 - 👀 I’m interested in programming, and learning new languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Go
 
 ---
 <h3 align="left">Languages and Tools:</h3>
